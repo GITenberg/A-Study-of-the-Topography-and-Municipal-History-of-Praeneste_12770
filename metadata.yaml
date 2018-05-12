@@ -1,5 +1,8 @@
 _repo: A-Study-of-the-Topography-and-Municipal-History-of-Praeneste_12770
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Magoffin, Ralph Van Deman
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4571'
     url: http://www.gutenberg.org/2009/agents/4571
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12770#A-Study-of-the-Topography-and-Municipal-History-of-Praeneste
 gutenberg_issued: '2004-06-29'
 gutenberg_type: Text
 identifiers:
